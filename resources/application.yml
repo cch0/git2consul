@@ -26,4 +26,4 @@ jasypt:
 # config value, will not be picked up when consul config is enabled.
 # this corresponds to /config/receipts/timeout key configured in Consul.
 timeout:
-  123
+  12345678
